@@ -5,7 +5,7 @@ AmazonEC2FullAccess
 
 AmazonEKS_CNI_Policy
 
-AmazonEKSClusterPolicy	
+AmazonEKSClusterPolicy	 
 
 AmazonEKSWorkerNodePolicy
 
